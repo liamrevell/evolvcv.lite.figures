@@ -1,0 +1,165 @@
+#NEXUS
+[R-package PHYTOOLS, Sat May 01 18:44:07 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 76;
+	TAXLABELS
+		Leiocephalus_barahonensis
+		Leiocephalus_carinatus
+		Leiocephalus_personatus
+		Leiocephalus_psammodromus
+		Leiocephalus_raviceps
+		Liolaemus_archeforus
+		Liolaemus_bibronii
+		Liolaemus_chacoensis
+		Liolaemus_chiliensis
+		Liolaemus_cyanogaster
+		Liolaemus_darwinii
+		Liolaemus_elongatus
+		Liolaemus_fitzingerii
+		Liolaemus_fuscus
+		Liolaemus_gravenhorstii
+		Liolaemus_kingii
+		Liolaemus_lemniscatus
+		Liolaemus_leopardinus
+		Liolaemus_lineomaculatus
+		Liolaemus_lutzae
+		Liolaemus_magellanicus
+		Liolaemus_monticola
+		Liolaemus_multimaculatus
+		Liolaemus_nigromaculatus
+		Liolaemus_nigroviridis
+		Liolaemus_nitidus
+		Liolaemus_occipitalis
+		Liolaemus_ornatus
+		Liolaemus_petrophilus
+		Liolaemus_pictus
+		Liolaemus_ruibali
+		Liolaemus_schroederi
+		Liolaemus_tenuis
+		Microlophus_albemarlensis
+		Microlophus_atacamensis
+		Microlophus_bivittatus
+		Microlophus_delanonis
+		Microlophus_duncanensis
+		Microlophus_grayii
+		Microlophus_habelii
+		Microlophus_occipitalis
+		Microlophus_pacificus
+		Microlophus_peruvianus
+		Microlophus_stolzmanni
+		Microlophus_theresiae
+		Microlophus_theresioides
+		Microlophus_thoracicus
+		Microlophus_tigris
+		Phymaturus_palluma
+		Phymaturus_patagonicus
+		Phymaturus_punae
+		Plica_plica
+		Plica_umbra
+		Stenocercus_boettgeri
+		Stenocercus_chrysopygus
+		Stenocercus_crassicaudatus
+		Stenocercus_cupreus
+		Stenocercus_guentheri
+		Stenocercus_humeralis
+		Stenocercus_imitator
+		Stenocercus_latebrosus
+		Stenocercus_limitaris
+		Stenocercus_ochoai
+		Stenocercus_ornatus
+		Stenocercus_stigmosus
+		Tropidurus_erythrocephalus
+		Tropidurus_etheridgei
+		Tropidurus_hispidus
+		Tropidurus_hygomi
+		Tropidurus_insulanus
+		Tropidurus_itambere
+		Tropidurus_montanus
+		Tropidurus_oreadicus
+		Tropidurus_torquatus
+		Uracentron_flaviceps
+		Uranoscodon_superciliosus
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Leiocephalus_barahonensis,
+		2	Leiocephalus_carinatus,
+		3	Leiocephalus_personatus,
+		4	Leiocephalus_psammodromus,
+		5	Leiocephalus_raviceps,
+		6	Liolaemus_archeforus,
+		7	Liolaemus_bibronii,
+		8	Liolaemus_chacoensis,
+		9	Liolaemus_chiliensis,
+		10	Liolaemus_cyanogaster,
+		11	Liolaemus_darwinii,
+		12	Liolaemus_elongatus,
+		13	Liolaemus_fitzingerii,
+		14	Liolaemus_fuscus,
+		15	Liolaemus_gravenhorstii,
+		16	Liolaemus_kingii,
+		17	Liolaemus_lemniscatus,
+		18	Liolaemus_leopardinus,
+		19	Liolaemus_lineomaculatus,
+		20	Liolaemus_lutzae,
+		21	Liolaemus_magellanicus,
+		22	Liolaemus_monticola,
+		23	Liolaemus_multimaculatus,
+		24	Liolaemus_nigromaculatus,
+		25	Liolaemus_nigroviridis,
+		26	Liolaemus_nitidus,
+		27	Liolaemus_occipitalis,
+		28	Liolaemus_ornatus,
+		29	Liolaemus_petrophilus,
+		30	Liolaemus_pictus,
+		31	Liolaemus_ruibali,
+		32	Liolaemus_schroederi,
+		33	Liolaemus_tenuis,
+		34	Microlophus_albemarlensis,
+		35	Microlophus_atacamensis,
+		36	Microlophus_bivittatus,
+		37	Microlophus_delanonis,
+		38	Microlophus_duncanensis,
+		39	Microlophus_grayii,
+		40	Microlophus_habelii,
+		41	Microlophus_occipitalis,
+		42	Microlophus_pacificus,
+		43	Microlophus_peruvianus,
+		44	Microlophus_stolzmanni,
+		45	Microlophus_theresiae,
+		46	Microlophus_theresioides,
+		47	Microlophus_thoracicus,
+		48	Microlophus_tigris,
+		49	Phymaturus_palluma,
+		50	Phymaturus_patagonicus,
+		51	Phymaturus_punae,
+		52	Plica_plica,
+		53	Plica_umbra,
+		54	Stenocercus_boettgeri,
+		55	Stenocercus_chrysopygus,
+		56	Stenocercus_crassicaudatus,
+		57	Stenocercus_cupreus,
+		58	Stenocercus_guentheri,
+		59	Stenocercus_humeralis,
+		60	Stenocercus_imitator,
+		61	Stenocercus_latebrosus,
+		62	Stenocercus_limitaris,
+		63	Stenocercus_ochoai,
+		64	Stenocercus_ornatus,
+		65	Stenocercus_stigmosus,
+		66	Tropidurus_erythrocephalus,
+		67	Tropidurus_etheridgei,
+		68	Tropidurus_hispidus,
+		69	Tropidurus_hygomi,
+		70	Tropidurus_insulanus,
+		71	Tropidurus_itambere,
+		72	Tropidurus_montanus,
+		73	Tropidurus_oreadicus,
+		74	Tropidurus_torquatus,
+		75	Uracentron_flaviceps,
+		76	Uranoscodon_superciliosus
+	;
+	TREE * UNTITLED = [&R] (((5:[&map={n_rock}]0.28637411,2:[&map={n_rock}]0.28637411):[&map={n_rock}]0.03838658,((4:[&map={n_rock}]0.20446475,3:[&map={n_rock}]0.20446475):[&map={n_rock}]0.04195015,1:[&map={n_rock}]0.2464149):[&map={n_rock}]0.0783458):[&map={n_rock}]0.67523928,(((63:[&map={n_rock}]0.42502764,((62:[&map={n_rock}]0.33467014,(64:[&map={n_rock}]0.32368758,58:[&map={n_rock}]0.32368758):[&map={n_rock}]0.01098256):[&map={n_rock}]0.03947959,(59:[&map={n_rock}]0.28077215,(56:[&map={rock,0.1322902,n_rock}]0.2645804,(60:[&map={n_rock}]0.25244147,((54:[&map={rock,0.07514092,n_rock}]0.15028185,57:[&map={n_rock}]0.15028185):[&map={n_rock}]0.09315598,(55:[&map={rock,0.09600457,n_rock}]0.19200914,(65:[&map={n_rock}]0.18247469,61:[&map={n_rock}]0.18247469):[&map={n_rock}]0.00953445):[&map={n_rock}]0.0514287):[&map={n_rock}]0.00900364):[&map={n_rock}]0.01213893):[&map={n_rock}]0.01619174):[&map={n_rock}]0.09337758):[&map={n_rock}]0.05087793):[&map={n_rock}]0.36352084,(((47:[&map={n_rock}]0.30219715,(45:[&map={n_rock}]0.21640741,((48:[&map={n_rock}]0.0606221,43:[&map={n_rock}]0.0606221):[&map={n_rock}]0.06664282,(35:[&map={n_rock}]0.01458088,46:[&map={rock,0.00729044,n_rock}]0.01458088):[&map={n_rock}]0.11268405):[&map={n_rock}]0.08914248):[&map={n_rock}]0.08578974):[&map={n_rock}]0.10178855,((41:[&map={n_rock}]0.17792011,(36:[&map={n_rock}]0.0881818,40:[&map={n_rock}]0.0881818):[&map={n_rock}]0.0897383):[&map={n_rock}]0.13525816,(44:[&map={n_rock}]0.2853418,(37:[&map={n_rock}]0.14732496,(39:[&map={n_rock}]0.07845607,(42:[&map={n_rock}]0.06314652,(34:[&map={n_rock}]0.04275513,38:[&map={n_rock}]0.04275513):[&map={n_rock}]0.02039139):[&map={n_rock}]0.01530955):[&map={n_rock}]0.06886888):[&map={n_rock}]0.13801685):[&map={n_rock}]0.02783647):[&map={n_rock}]0.09080742):[&map={n_rock}]0.16179202,(76:[&map={n_rock}]0.51276889,((75:[&map={n_rock}]0.4005295,(53:[&map={n_rock}]0.31267016,52:[&map={n_rock}]0.31267014):[&map={n_rock}]0.08785934):[&map={n_rock}]0.06145109,(69:[&map={n_rock}]0.2212551,(72:[&map={rock}]0.20655411,(71:[&map={rock}]0.17632418,((66:[&map={rock}]0.13215429,67:[&map={n_rock,0.06607715,rock}]0.13215429):[&map={rock}]0.02878642,(70:[&map={rock}]0.09220328,(73:[&map={rock}]0.04039631,(74:[&map={n_rock}]0.02410336,68:[&map={n_rock}]0.02410336):[&map={n_rock,0.00814647,rock}]0.01629295):[&map={rock}]0.05180698):[&map={rock}]0.06873744):[&map={rock}]0.01538347):[&map={rock}]0.03022992):[&map={rock,0.0073505,n_rock}]0.014701):[&map={n_rock}]0.24072548):[&map={n_rock}]0.0507883):[&map={n_rock}]0.05300883):[&map={n_rock}]0.22277079):[&map={n_rock}]0.13928427,((50:[&map={rock}]0.27722164,(49:[&map={rock}]0.03347401,51:[&map={rock}]0.03347401):[&map={rock}]0.24374762):[&map={rock,0.15717833,n_rock}]0.31435666,(((33:[&map={n_rock}]0.26648209,((17:[&map={n_rock}]0.218403,((26:[&map={rock}]0.10512263,22:[&map={rock}]0.10512263):[&map={rock}]0.08039449,(14:[&map={rock}]0.13647918,25:[&map={rock}]0.13647918):[&map={rock}]0.04903794):[&map={rock,0.01644293,n_rock}]0.03288587):[&map={n_rock}]0.03781691,24:[&map={n_rock}]0.25621991):[&map={n_rock}]0.01026219):[&map={n_rock}]0.01955438,(((18:[&map={rock}]0.04662066,12:[&map={rock}]0.04662066):[&map={rock}]0.08812916,29:[&map={rock}]0.13474981):[&map={rock,0.04063428,n_rock}]0.08126856,(((15:[&map={n_rock}]0.04200582,32:[&map={n_rock}]0.04200582):[&map={n_rock}]0.06965018,(9:[&map={n_rock}]0.08137705,(10:[&map={n_rock}]0.07901187,30:[&map={n_rock}]0.07901187):[&map={n_rock}]0.00236517):[&map={n_rock}]0.03027897):[&map={n_rock}]0.05434628,7:[&map={n_rock}]0.16600228):[&map={n_rock}]0.05001608):[&map={n_rock}]0.0700181):[&map={n_rock}]0.04603247,((19:[&map={n_rock}]0.16231804,(21:[&map={n_rock}]0.12058043,(16:[&map={n_rock}]0.02825212,6:[&map={rock,0.01412606,n_rock}]0.02825211):[&map={n_rock}]0.0923283):[&map={n_rock}]0.04173761):[&map={n_rock}]0.10809031,(31:[&map={n_rock}]0.2257293,(((27:[&map={n_rock}]0.09838383,20:[&map={n_rock}]0.09838383):[&map={n_rock}]0.06493089,23:[&map={n_rock}]0.16331472):[&map={n_rock}]0.03974595,(13:[&map={n_rock}]0.18572627,((8:[&map={n_rock}]0.08120004,11:[&map={n_rock}]0.08120005):[&map={n_rock}]0.03724035,28:[&map={n_rock}]0.11844039):[&map={n_rock}]0.06728588):[&map={n_rock}]0.01733439):[&map={n_rock}]0.02266863):[&map={n_rock}]0.04467905):[&map={n_rock}]0.06166059):[&map={n_rock}]0.25950936):[&map={n_rock}]0.33625449):[&map={n_rock}]0.07216721);
+END;
